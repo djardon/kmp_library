@@ -1,0 +1,5 @@
+framework module "KMPLibrary" {
+    umbrella header "KMPLibrary.h"
+    export *
+    module * { export * }
+}
