@@ -4,12 +4,12 @@
       {
         "kind" : "xcframework",
         "packageRef" : {
-          "identity" : "kmp",
+          "identity" : "kmp_library",
           "kind" : "root",
-          "location" : "/Users/davidjardon/Proyectos/Formaciones/KMP/2024-11/KMP",
-          "name" : "KMP"
+          "location" : "/Users/davidjardon/Proyectos/Formaciones/KMP/2024-11/KMP/Library/kmp_library",
+          "name" : "kmp_library"
         },
-        "path" : "/Users/davidjardon/Proyectos/Formaciones/KMP/2024-11/KMP/.build/artifacts/kmp/KMPLibrary/KMPLibrary.xcframework",
+        "path" : "/Users/davidjardon/Proyectos/Formaciones/KMP/2024-11/KMP/Library/kmp_library/.build/artifacts/kmp_library/KMPLibrary/KMPLibrary.xcframework",
         "source" : {
           "checksum" : "7414ae25bd4ab19a07624d7cc8fda2900d5e6eedfebb4d805a570f4756eb70fc",
           "type" : "remote",
