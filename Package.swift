@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "KMPLibrary",
-         url: "https://github.com/djardon/kmp_library/releases/download/0.0.1/KMPLibrary.xcframework.zip",
+         url: "https://github.com/djardon/kmp_library/releases/download/0.1.0/KMPLibrary.xcframework.zip",
          checksum: "7414ae25bd4ab19a07624d7cc8fda2900d5e6eedfebb4d805a570f4756eb70fc")
    ]
 )
